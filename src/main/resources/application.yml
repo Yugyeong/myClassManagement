@@ -56,7 +56,7 @@ spring:
                   serde: org.apache.kafka.common.serialization.Serdes$StringSerde
       bindings:
         event-in:
-          group: myclassmanagement
+          group: myClassManagement
           destination: myProject
           contentType: application/json
         event-out:

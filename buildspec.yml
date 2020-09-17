@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     IMAGE_REPO_NAME: "04-myclassmanagement"
-    _PROJECT_NAME: "myclassmanagement"
+    _PROJECT_NAME: "myClassManagement"
 
 phases:
   install:
