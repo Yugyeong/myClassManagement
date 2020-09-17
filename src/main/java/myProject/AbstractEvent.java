@@ -35,6 +35,7 @@ public class AbstractEvent {
         }
 
         return json;
+        
     }
 
     public void publish(String json){
