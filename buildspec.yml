@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "04-myclassmanagement"
-    _PROJECT_NAME: "04-myclassmanagement"
+    IMAGE_REPO_NAME: "myclassmanagement"
+    _PROJECT_NAME: "myclassmanagement"
     AWS_DEFAULT_REGION: "ap-northeast-2"
     AWS_ACCOUNT_ID: "271153858532"
 
